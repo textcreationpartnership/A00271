@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The copy of a letter lately vvritten by a Spanishe gentleman, to his freind in England in refutation
+
 #####Body#####
-The copy of a letter lately vvritten by a Spanishe gentleman, to his freind in England in refutation
+
+1. THE COPY OF A LETTER,
+LATELY WRITTEN BY A
+SPANISHE GENTLEMAN, TO HIS
+freind in England: in refutation of ſundry calumnies,
+there falſly bruited, and ſpred emonge the people.
+
 **Types of content**
 
   * There are 6 **verse** lines!
